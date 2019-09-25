@@ -1,0 +1,17 @@
+{
+    "requests": [
+        {
+          "image": {
+            "source": {
+                "gcsImageUri": "gs://qwiklabs-gcp-125497db46ca3074/cirrus.png"
+            }
+          },
+          "features": [
+            {
+              "type": "LABEL_DETECTION",
+              "maxResults": 10
+            }
+          ]
+        }
+    ]
+  }
