@@ -32,11 +32,11 @@ sc = SparkContext("local", "Simple App")
 '''
 You must set these values for the job to run.
 '''
-APIKEY="AIzaSyCTCtMyAX898DKX_IzBNKsNimjHFCtyca8"   # CHANGE
+APIKEY=""   # CHANGE
 print(APIKEY)
-PROJECT_ID="qwiklabs-gcp-43a904b3198b8616"  # CHANGE
+PROJECT_ID=""  # CHANGE
 print(PROJECT_ID) 
-BUCKET="qwiklabs-gcp-43a904b3198b8616"   # CHANGE
+BUCKET=""   # CHANGE
 
 
 ## Wrappers around the NLP REST interface
