@@ -1,0 +1,5 @@
+Tensor flow playground example
+goo.gl/v7qM4Q
+
+Precision = TP / (TP + FP)
+Recall = TP / (TP + FN)
